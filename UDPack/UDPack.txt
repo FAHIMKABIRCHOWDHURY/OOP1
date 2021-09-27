@@ -1,0 +1,12 @@
+
+
+1. Divide the files into two categories based on their content.
+	- Create two folder for the two categories.
+	- One is for the classes and the otehr is for the interfaces.
+	- Put the files into the folder according to their category.
+	
+2. Inform the files about the package they are in.
+	- use the keyword 'package'.
+	
+3. Import required classes where necessary.
+	- use the keyword 'import'.
